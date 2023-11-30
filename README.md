@@ -25,7 +25,7 @@ UML, or Unified Modeling Language, is a standardized modeling language used in s
 
 - **Association Relationships:** A relationship between an actor and a use case. It represents the communication between the actor and the use case.
 - **Generalization Relationships:** A relationship between two use cases. It represents the inheritance between the two use cases.
- <img src="gen-rel.png">
+    <img src="gen-rel.png">
 
 - **Include Relationships:** A relationship between two use cases. It represents the inclusion of one use case in another use case.
 - **Extend Relationships:** A relationship between two use cases. It represents the extension of one use case by another use case.
@@ -33,10 +33,10 @@ UML, or Unified Modeling Language, is a standardized modeling language used in s
     *Photo Courtesy*: Luciad Software-YouTube Channel
 
 4. **System Boundary**: The scope of the system being modeled. It defines what is inside the system (i.e., the use cases) and what is outside the system (i.e., the actors).
-* Website
-* Software component
-* Business process
-* App
+    * Website
+    * Software component
+    * Business process
+    * App
 
 
 ### Creating Use-Case Diagrams
