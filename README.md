@@ -45,4 +45,9 @@ UML, or Unified Modeling Language, is a standardized modeling language used in s
 - Drawio: [Draw.io](https://app.diagrams.net/)
 - Adding an extension of drawio to the VS Code and naming the projects with the extesion ".drawio". It will open the drawio editor in the VS Code itself.
 
+
+### Watch the Tutorial
+
+[Everything You need to know about UML Use Case Diagrams](https://youtu.be/zzgQ1UvDjV0)
+
 **Happy Journey!**
