@@ -25,6 +25,7 @@ UML, or Unified Modeling Language, is a standardized modeling language used in s
 
 - **Association Relationships:** A relationship between an actor and a use case. It represents the communication between the actor and the use case.
 - **Generalization Relationships:** A relationship between two use cases. It represents the inheritance between the two use cases.
+
     <img src="gen-rel.png">
 
 - **Include Relationships:** A relationship between two use cases. It represents the inclusion of one use case in another use case.
